@@ -1,0 +1,16 @@
+body {
+   background-image: url('../../File_PendukungLatihan/Images/Books.jpg');
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: top center;
+}
+h1 {
+   background-color: coral;
+   color: #FFFFFF;
+   width: 28%;
+}
+p {
+   background-color: crimson;
+   color: #FFFFFF;
+   width: 50%;
+}

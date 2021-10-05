@@ -1,0 +1,19 @@
+body {
+   font-family: Arial;
+}
+h1 {
+   font-size: 50px;
+   color: #20B2AA;
+   text-align: center;
+   text-decoration: underline;
+   text-transform: uppercase;
+   letter-spacing: 10px;
+}
+p {
+   font-size: 25px;
+   color: rgb(40, 97, 189);
+   text-align: justify;
+   text-indent: 40px;
+   text-transform: capitalize;
+   word-spacing: 10px;
+}

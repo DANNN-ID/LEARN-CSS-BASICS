@@ -1,0 +1,36 @@
+body {
+   font-family: Arial;
+}
+h1, h2 {
+   color: coral;
+}
+h1 {
+   text-transform: uppercase;
+}
+h2 {
+   font-style: italic;
+}
+ul li a {
+   color: darkorchid;
+}
+ol li a {
+   color: yellowgreen;
+}
+a {
+   color: goldenrod;
+}
+.paragraf-1 {
+   color: indigo;
+   font-size: 20px;
+   font-style: italic;
+}
+.paragraf-2 {
+   color: lawngreen;
+   font-size: 20px;
+}
+.text-bold {
+   font-weight: bold;
+}
+.text-large {
+   font-size: 25px;
+}
